@@ -55,20 +55,6 @@ print("Root Mean Square Error:",rmse)
 dt.predict([[5,6]])
 ```
 
-## Output:
-
-<img width="1629" height="280" alt="image" src="https://github.com/user-attachments/assets/4f1c914d-79c4-42d9-bf8f-94c3d53b8010" />
-
-<img width="1608" height="262" alt="image" src="https://github.com/user-attachments/assets/b0d92761-cca5-4fdd-adca-34a21200de79" />
-
-<img width="1636" height="114" alt="image" src="https://github.com/user-attachments/assets/0ed0d73d-a6dd-4a85-80c6-5876d487977f" />
-
-<img width="1636" height="287" alt="image" src="https://github.com/user-attachments/assets/4143a234-3625-43fb-abec-3747e3384832" />
-
-<img width="1635" height="129" alt="image" src="https://github.com/user-attachments/assets/e3f06b18-5cc2-4acf-a8e9-06d9c46aeecd" />
-
-<img width="1643" height="169" alt="image" src="https://github.com/user-attachments/assets/eead10ed-b025-44d4-ba5b-43ef5ab122da" />
-
 <img width="1664" height="125" alt="image" src="https://github.com/user-attachments/assets/3b8a4b39-0702-42bf-9db2-3f50b6199e43" />
 
 
